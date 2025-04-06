@@ -11,7 +11,7 @@ The dashboard enables stakeholders to **monitor and analyze credit card operatio
 - **Custom Filters & Slicers**: Built-in slicers for week, Gender, and card type, on-demand insights.
 
  ## 🛠 Tools & Technologies Used
-- ** Power BI** – for dashboard creation and data visualization
+- **Power BI** – for dashboard creation and data visualization
 - **SQL** – for querying and managing structured data
 
  ## 📈 Metrics Tracked
